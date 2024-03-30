@@ -53,7 +53,7 @@ workflows:
         environment:
           ios_signing:
             distribution_type: app_store
-            bundle_identifier: com.expensify.chat.dev
+            bundle_identifier: io.cm.expensify.chat
           vars:
             XCODE_WORKSPACE: "NewExpensify.xcworkspace" # <-- Put the name of your Xcode workspace here
             XCODE_SCHEME: "NewExpensify" # <-- Put the name of your Xcode scheme here
