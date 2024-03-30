@@ -216,7 +216,7 @@ PODS:
     - lottie-ios (~> 4.3.3)
     - React-Core
 
-    - MapboxCoreMaps (= 10.16.4)
+    - MapboxCoreMaps (= 10.11.1)
     - MapboxMobileEvents (= 1.0.10)
     - Turf (~> 2.0)
   - MapboxMobileEvents (1.0.10)
