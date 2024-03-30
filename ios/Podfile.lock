@@ -215,11 +215,7 @@ PODS:
   - lottie-react-native (6.4.1):
     - lottie-ios (~> 4.3.3)
     - React-Core
-  - MapboxCommon (23.8.6)
-  - MapboxCoreMaps (10.16.4):
-    - MapboxCommon (~> 23.8)
-  - MapboxMaps (10.16.4):
-    - MapboxCommon (= 23.8.6)
+
     - MapboxCoreMaps (= 10.16.4)
     - MapboxMobileEvents (= 1.0.10)
     - Turf (~> 2.0)
@@ -1557,7 +1553,7 @@ SPEC REPOS:
     - libvmaf
     - libwebp
     - lottie-ios
-    - MapboxCommon
+ 
     - MapboxCoreMaps
     - MapboxMaps
     - MapboxMobileEvents
@@ -1820,7 +1816,6 @@ SPEC CHECKSUMS:
   libwebp: 1786c9f4ff8a279e4dac1e8f385004d5fc253009
   lottie-ios: 3d98679b41fa6fd6aff2352b3953dbd3df8a397e
   lottie-react-native: a2ae9c27c273b060b2affff2957bc0ff7fdca353
-  MapboxCommon: 90f76693dc02438acbb5ea9a5b266a4c0eb1c875
   MapboxCoreMaps: 7b07d1ca8c454a4381daf09df901b9d6bf90bce0
   MapboxMaps: cbb38845a9bf49b124f0e937975d560a4e01894e
   MapboxMobileEvents: de50b3a4de180dd129c326e09cd12c8adaaa46d6
