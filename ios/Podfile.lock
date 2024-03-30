@@ -1366,13 +1366,13 @@ PODS:
   - RNLocalize (2.2.6):
     - React-Core
   - rnmapbox-maps (10.1.11):
-    - MapboxMaps (~> 10.16.4)
+    - MapboxMaps (~> 10.11.1)
     - React
     - React-Core
     - rnmapbox-maps/DynamicLibrary (= 10.1.11)
     - Turf
   - rnmapbox-maps/DynamicLibrary (10.1.11):
-    - MapboxMaps (~> 10.16.4)
+    - MapboxMaps (~> 10.11.1)
     - React
     - React-Core
     - Turf
